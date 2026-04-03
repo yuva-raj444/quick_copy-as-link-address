@@ -1,4 +1,4 @@
-# ⚡ Quick Copy-as-Link-Address
+# ⚡ Quick Copy-as-Link-Address - Browser Extension
 
 > **Hover + `Ctrl + Q` = Link Copied.** That's it.
 
